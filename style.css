@@ -1,0 +1,29 @@
+h2, h3, h4 {
+	color: #85e0e0;
+	font-weight: normal;
+}
+
+img {
+	float: left;
+	margin: 20px;
+}
+
+h1, a {
+	color: black;
+}
+
+body {
+	font-family: 'Quicksand';
+	font-size: 22px;
+	width: 100%;
+	margin: 20;
+	background: #ebfafa;
+}
+
+
+#footer {
+	font-size: 12px;
+	border-top: 1px solid #f0e9eb;
+	padding: 10px 15px;
+	clear: both;
+}
